@@ -1,24 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
-	<urlset xmlns="http://www.google.com/schemas/sitemap/0.84" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-		<url>
-			<loc>https://anasrashed.com</loc>
-			<changefreq>daily</changefreq>
-		</url>
+<urlset xmlns="http://www.google.com/schemas/sitemap/0.84" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-		<url>
-			<loc>https://anasrashed.com/category/prbpqr</loc>
-			<changefreq>daily</changefreq>
-		</url>
+  <!-- الصفحة الرئيسية -->
+  <url>
+    <loc>https://anasrashed.com</loc>
+    <changefreq>daily</changefreq>
+  </url>
 
-		<url>
-			<loc>https://anasrashed.com/category/xzvlok</loc>
-			<changefreq>daily</changefreq>
-		</url>
+  <!-- التصنيفات -->
+  <url>
+    <loc>https://anasrashed.com/SEO PDF/c1387603909</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://anasrashed.com/خدمات SEO/c1556968951</loc>
+    <changefreq>daily</changefreq>
+  </url>
 
-		<url>
-			<loc>https://anasrashed.com/blog</loc>
-			<changefreq>daily</changefreq>
-		</url>
+  <!-- المنتجات -->
+  <url>
+    <loc>https://anasrashed.com/NApDQYD</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://anasrashed.com/EXYvQgQ</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://anasrashed.com/eQvbbqP</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://anasrashed.com/VDPnBOd</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://anasrashed.com/VDPOOpm</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://anasrashed.com/wAXpVym</loc>
+    <changefreq>weekly</changefreq>
+  </url>
 
-	</urlset>
+  <!-- المدونة -->
+  <url>
+    <loc>https://anasrashed.com/blog</loc>
+    <changefreq>daily</changefreq>
+  </url>
 
+  <!-- مقالات المدونة -->
+  <url>
+    <loc>https://anasrashed.com/blog/ما هو تحسين محركات البحث SEO؟ ولماذا مهم لمتجرك الإلكتروني؟/a-1636994282</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://anasrashed.com/blog/تاريخ تحسين محركات البحث من الفهرسة الى التسويق الإلكتروني/a-158236255</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://anasrashed.com/blog/كيف تستفيد من Ai Mode في تحسين محركات البحث؟/a-829656143</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://anasrashed.com/blog/سر تحسين محركات البحث من خلال بناء الروابط الخلفية Backlinks/a-1273209191</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://anasrashed.com/blog/أفضل 10 أدوات لتحسين محركات البحث SEO للمتاجر الإلكترونية/a-1644476924</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://anasrashed.com/blog/ما هو تحسين محركات البحث الداخلي (On-page SEO)؟/a-189403945</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://anasrashed.com/blog/دور الروابط الداخلية في تحسين محركات البحث لمتجرك الإلكتروني/a-1956352526</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://anasrashed.com/blog/ما هو التسويق عبر محركات البحث (SEM)؟/a-1641122943</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://anasrashed.com/blog/تعلم تحسين محركات البحث بإستخدام أوصاف الصور (ALT text)/a-1371437251</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://anasrashed.com/blog/تحسين محركات التوليد (GEO) وعلاقته بتحسين محركات البحث (SEO)/a-592687326</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://anasrashed.com/blog/7 خطوات لكتابة وصف منتجات متوافق مع SEO لزيادة ظهورك في جوجل/a-1474153794</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://anasrashed.com/blog/أهمية الكلمات المفتاحية لتحسين محركات البحث (SEO)/a-1662442133</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://anasrashed.com/blog/أهمية سرعة تحميل المتجر الإلكتروني لتحسين محركات البحث/a-1235257192</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+
+</urlset>
