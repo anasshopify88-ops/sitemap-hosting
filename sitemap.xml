@@ -7,6 +7,32 @@
     <changefreq>daily</changefreq>
   </url>
 
+  <!-- الصفحات المهمة -->
+ <url>
+    <loc>https://anasrashed.com/توثيق-التجارة-الإلكترونية/page-1494027497</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+   <url>
+    <loc>https://anasrashed.com/سياسة-الاستخدام-والخصوصية/page-1608056313/c1387603909</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+   <url>
+    <loc>https://anasrashed.com/الاستبدال-والاسترجاع/page-1897044166</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+ <url>
+    <loc>https://anasrashed.com/خريطة-الموقع/page-325642803</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+   <url>
+    <loc>https://contact.anasrashed.com</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+   <url>
+    <loc>https://whoami.anasrashed.com</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  
   <!-- التصنيفات -->
   <url>
     <loc>https://anasrashed.com/SEO PDF/c1387603909</loc>
@@ -40,6 +66,10 @@
   </url>
   <url>
     <loc>https://anasrashed.com/wAXpVym</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+   <url>
+    <loc>https://anasrashed.com/ZqyGaBZ</loc>
     <changefreq>weekly</changefreq>
   </url>
 
