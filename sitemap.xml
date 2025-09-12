@@ -79,6 +79,13 @@
     <changefreq>daily</changefreq>
   </url>
 
+  <!-- أدوات تحسين محركات البحث -->
+<url>
+    <loc>https://serp.anasrashed.com</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  
+
   <!-- مقالات المدونة -->
   <url>
     <loc>https://anasrashed.com/blog/ما هو تحسين محركات البحث SEO؟ ولماذا مهم لمتجرك الإلكتروني؟/a-1636994282</loc>
