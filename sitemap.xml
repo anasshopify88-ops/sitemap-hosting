@@ -1,125 +1,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
-<url>
-<loc>https://anasrashed.com/</loc>
-<lastmod>2025-09-25T23:56:31+00:00</lastmod>
-<priority>1.00</priority>
-</url>
-
-  <!--  المدونة  -->
+<!--  تم إنشاء هذه الخريطة في أداة منشئ خرائط المواقع من أنس راشد -->
   
 <url>
-<loc>https://blog.anasrashed.com/</loc>
-<lastmod>2025-12-23T20:56:31+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-
-<!--  الصفحات الرئيسية  -->
-  
-  <url>  
-<loc>https://www.anasrashed.com/2026/01/who-am-i.html/</loc>
-<lastmod>2026-01-05T00:40:31+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-  
- <url>
-<loc>https://contact.anasrashed.com/</loc>
-<lastmod>2025-12-23T20:56:31+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-
-<url>
-<loc>https://reviews.anasrashed.com/</loc>
-<lastmod>2025-12-27T23:54:31+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-
- <url>
-<loc>https://www.anasrashed.com/2026/01/on-page-seo-service-for-ecommerce-stores.html/</loc>
-<lastmod>2026-01-05T00:30:31+00:00</lastmod>
-<priority>0.80</priority>
-</url> 
-
-<url>
-<loc>https://www.anasrashed.com/2026/01/off-page-seo-service-for-ecommerce-stores.html</loc>
-<lastmod>2026-01-05T00:31:31+00:00</lastmod>
-<priority>0.80</priority>
-</url> 
-
-<url>
-<loc>https://www.anasrashed.com/2026/01/competitor-keyword-research-service.html</loc>
-<lastmod>2026-01-05T00:32:31+00:00</lastmod>
-<priority>0.80</priority>
-</url> 
-  
-<!--  أدوات تحسين محركات البحث  -->
-  
-  <url>
 <loc>https://serp.anasrashed.com/</loc>
 <lastmod>2025-12-23T20:56:31+00:00</lastmod>
 <priority>0.80</priority>
 </url>
   
-  <url>
+<url>
 <loc>https://smg.anasrashed.com/</loc>
 <lastmod>2025-12-23T20:56:31+00:00</lastmod>
 <priority>0.80</priority>
 </url>
   
-   <url>
+<url>
 <loc>https://keywords.anasrashed.com/</loc>
 <lastmod>2025-12-23T20:56:31+00:00</lastmod>
 <priority>0.80</priority>
 </url>
   
-   <url>
+<url>
 <loc>https://checker.anasrashed.com/</loc>
 <lastmod>2025-12-23T20:56:31+00:00</lastmod>
 <priority>0.80</priority>
 </url>
   
-  <url>
+<url>
 <loc>https://writer.anasrashed.com/</loc>
 <lastmod>2025-12-27T21:00:31+00:00</lastmod>
 <priority>0.80</priority>
 </url>
 
-  <url>
+<url>
 <loc>https://tinyimage.anasrashed.com/</loc>
 <lastmod>2025-12-28T00:00:31+00:00</lastmod>
 <priority>0.80</priority>
-</url>
-
-    <!--  المقالات  -->
-  
- <url>
-<loc>https://blog.anasrashed.com/2025/12/seo.html/</loc>
-<lastmod>2025-12-23T20:56:31+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-  
-<url>
-<loc>https://blog.anasrashed.com/2025/12/the-difference-between-seo-and-geo.html/</loc>
-<lastmod>2025-12-24T20:40:31+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-
-<url>
-<loc>https://blog.anasrashed.com/2025/12/how-to-build-backlinks-improve-google-rankings.html/</loc>
-<lastmod>2025-12-28T17:09:31+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-
-  <url>
-<loc>https://blog.anasrashed.com/2025/12/search-engine-optimization-guide-2026.html/</loc>
-<lastmod>2026-01-01T21:01:31+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-
-<url>
-<loc>https://blog.anasrashed.com/2026/01/seo-vs-sem-best-investment-for-ecommerce.html/</loc>
-<lastmod>2026-01-05T19:45:31+00:00</lastmod>
-<priority>0.64</priority>
 </url>
   
 </urlset>
